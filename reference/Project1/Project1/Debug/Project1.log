@@ -1,0 +1,19 @@
+﻿  Source.cpp
+d:\c++2019\reference\project1\project1\source.cpp(15): error C2988: 無法辨認的樣板宣告/定義
+d:\c++2019\reference\project1\project1\source.cpp(15): error C2143: 語法錯誤: 遺漏 ';' (在 '<' 之前)
+d:\c++2019\reference\project1\project1\source.cpp(15): error C2182: 'Swap': 類型 'void' 的使用不合法
+d:\c++2019\reference\project1\project1\source.cpp(15): error C2059: 語法錯誤: '<'
+d:\c++2019\reference\project1\project1\source.cpp(18): error C2365: 'Swap': 重複定義，先前的定義是 '資料變數'
+  d:\c++2019\reference\project1\project1\source.cpp(15): note: 請參閱 'Swap' 的宣告
+d:\c++2019\reference\project1\project1\source.cpp(36): error C2064: 詞彙不等於使用 2 引數的函式
+d:\c++2019\reference\project1\project1\source.cpp(44): error C2064: 詞彙不等於使用 1 引數的函式
+d:\c++2019\reference\project1\project1\source.cpp(61): error C2988: 無法辨認的樣板宣告/定義
+d:\c++2019\reference\project1\project1\source.cpp(61): error C2143: 語法錯誤: 遺漏 ';' (在 '<' 之前)
+d:\c++2019\reference\project1\project1\source.cpp(61): error C2182: 'Swap': 類型 'void' 的使用不合法
+d:\c++2019\reference\project1\project1\source.cpp(61): error C2374: 'Swap': 重複定義; 多個初始設定
+  d:\c++2019\reference\project1\project1\source.cpp(15): note: 請參閱 'Swap' 的宣告
+d:\c++2019\reference\project1\project1\source.cpp(61): error C2059: 語法錯誤: '<'
+d:\c++2019\reference\project1\project1\source.cpp(62): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)
+d:\c++2019\reference\project1\project1\source.cpp(62): error C2447: '{': 遺漏函式標頭 (舊樣式型式清單?)
+d:\c++2019\reference\project1\project1\source.cpp(82): error C2365: 'Swap': 重複定義，先前的定義是 '資料變數'
+  d:\c++2019\reference\project1\project1\source.cpp(15): note: 請參閱 'Swap' 的宣告

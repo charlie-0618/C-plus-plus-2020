@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\c++2019\類別繼承(class_derive)\樣板類別\成員樣板\project1\project1\mem_template.h(55): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  d:\c++2019\類別繼承(class_derive)\樣板類別\成員樣板\project1\project1\main.cpp(14): note: 請參閱所要編譯的函式 樣板 具現化 'U beta<double>::blab<int>(U,T)' 之參考
+          with
+          [
+              U=int,
+              T=double
+          ]
+  d:\c++2019\類別繼承(class_derive)\樣板類別\成員樣板\project1\project1\main.cpp(14): note: 請參閱所要編譯的函式 樣板 具現化 'U beta<double>::blab<int>(U,T)' 之參考
+          with
+          [
+              U=int,
+              T=double
+          ]
+  Project1.vcxproj -> D:\c++2019\類別繼承(class_derive)\樣板類別\成員樣板\Project1\Debug\Project1.exe

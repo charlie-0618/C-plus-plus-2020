@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\c++2019\vector\vector1\project1\source.cpp(53): warning C4018: '<': signed/unsigned 不相符
+d:\c++2019\vector\vector1\project1\source.cpp(147): warning C4018: '<': signed/unsigned 不相符
+d:\c++2019\vector\vector1\project1\source.cpp(149): warning C4018: '<': signed/unsigned 不相符
+  Project1.vcxproj -> D:\c++2019\Vector\Vector1\Debug\Project1.exe

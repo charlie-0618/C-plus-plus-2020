@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\c++2019\vector(tuple)\project1\project1\source.cpp(59): warning C4018: '<': signed/unsigned 不相符
+d:\c++2019\vector(tuple)\project1\project1\source.cpp(61): warning C4018: '<': signed/unsigned 不相符
+  Project1.vcxproj -> D:\c++2019\Vector(tuple)\Project1\Debug\Project1.exe
