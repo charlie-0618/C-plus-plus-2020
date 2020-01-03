@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\c++2019\function2\function2\source.cpp(15): error C2440: '=': 無法由 'int **' 轉換為 'const int **'
+  d:\c++2019\function2\function2\source.cpp(15): note: 轉換遺失限定詞

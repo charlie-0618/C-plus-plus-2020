@@ -1,0 +1,5 @@
+﻿  Function1.cpp
+d:\c++2019\function1\function1\function1.cpp(14): error C2664: 'void arrtest(int)': 無法將引數 1 從 'int [5]' 轉換為 'int'
+  d:\c++2019\function1\function1\function1.cpp(14): note: 沒有可以進行此轉換的內容
+d:\c++2019\function1\function1\function1.cpp(23): error C2065: 'cout': 未宣告的識別項
+d:\c++2019\function1\function1\function1.cpp(23): error C2065: 'endl': 未宣告的識別項
